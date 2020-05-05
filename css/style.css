@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.links {
+/*color: #0093F4;*/
+color: #5FB16D;
+}
+
+a.links:hover {
+color: #cccccc;
+text-decoration: none ;
+
+}
+

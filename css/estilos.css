@@ -1,0 +1,69 @@
+.news {
+color: white;
+/*background-color: #0093F4;*/
+background-color: #5FB16D;
+padding-left: 10px;
+padding-right: 10px;
+font-weight: 300;
+} 
+
+
+.navbar-light .navbar-nav, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    /*color: green;*/
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+font-weight: 400;
+color: black;
+background-color: white;
+/*text-transform: uppercase;*/
+font-size: 1.0rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+color: #999999;
+}
+
+.bg-light {
+    background-color: #ffffff!important;
+}
+
+h1.portada {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+h2, h3 {
+    font-weight: 300;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color:#5FB16D;
+    border-radius: .3rem;
+}
+
+ul.navbar-nav li.nav-item a.social {
+    color: #5FB16D;
+}
+
+.links {
+    /*color: #0093F4;*/
+    color: #5FB16D;
+    }
+    
+a.links:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+div.links ul li a {
+    color: #5FB16D;
+}
+
+div.links ul li a:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
